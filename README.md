@@ -18,5 +18,5 @@ My Email: chazz.kreutzkamp@gmail.com
 
 ## Image of the Application in Action:
 
-![al text](https://github.com/ChazzKreutzkamp/note-taker-project-11/blob/master/readmeImages/indexpage.JPG)
-![al text](https://github.com/ChazzKreutzkamp/note-taker-project-11/blob/master/readmeImages/notespage.JPG)
+![al text](https://github.com/ChazzKreutzkamp/note-taker-project-11/blob/main/readmeImages/indexpage.JPG)
+![al text](https://github.com/ChazzKreutzkamp/note-taker-project-11/blob/main/readmeImages/notespage.JPG)
