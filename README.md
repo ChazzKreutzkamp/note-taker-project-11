@@ -16,10 +16,10 @@ Link to a video that shows the application in action: [Video Explination]()
 
 My Email: chazz.kreutzkamp@gmail.com
 
-## Image of the Application in Action:
+## Images of the Application in Action:
 
-## Home Page Image:
+### Home Page Image:
 ![al text](https://github.com/ChazzKreutzkamp/note-taker-project-11/blob/main/readmeImages/indexpage.JPG)
 
-## Note Taking Page Image:
+### Note Taking Page Image:
 ![al text](https://github.com/ChazzKreutzkamp/note-taker-project-11/blob/main/readmeImages/notespage.JPG)
