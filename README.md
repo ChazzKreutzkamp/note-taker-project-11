@@ -6,7 +6,7 @@ This Application is designed to help you create notes and save them to an online
 
 ## How to Use the Application:
 
-Link to a video that shows the application in action: [Video Explination]()
+Link to a video that shows the application in action: [Video Explination](https://drive.google.com/file/d/1P25NyJldFVGi6Cgw1SrUi-KjUY00Glg4/view)
 
 ## Important Links:
 
